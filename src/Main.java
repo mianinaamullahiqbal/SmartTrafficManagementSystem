@@ -1,3 +1,7 @@
+//Mian Inaamullah Iqbal
+//l1f24bsse0004
+//SE D3
+
 import java.util.Scanner;
 
 public class Main {
