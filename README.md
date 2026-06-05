@@ -2,7 +2,7 @@
 
 A Java-based Smart Traffic Management System developed using Data Structures and Algorithms (DSA). The project manages normal and emergency vehicles, stores vehicle records, simulates traffic signals, and finds the shortest route between different locations in Lahore.
 
-## 📌 Features
+## Features
 
 - Add Normal Vehicles
 - Add Emergency Vehicles
@@ -12,7 +12,7 @@ A Java-based Smart Traffic Management System developed using Data Structures and
 - Traffic Signal Simulation
 - Shortest Route Finding Between Lahore Locations
 
-## 🏗 Data Structures Used
+## Data Structures Used
 
 - **Queue** → Normal Vehicle Management (FIFO)
 - **Priority Queue** → Emergency Vehicle Handling
@@ -20,13 +20,13 @@ A Java-based Smart Traffic Management System developed using Data Structures and
 - **Graph** → Lahore Road Network Representation
 - **ArrayList** → Record Display & Sorting
 
-## ⚙ Algorithms Used
+## Algorithms Used
 
 - **Dijkstra Algorithm** → Shortest Route Calculation
 - **Priority Scheduling** → Emergency Vehicle Processing
 - **Collections.sort()** → Vehicle Record Sorting
 
-## 📍 Lahore Locations
+## Lahore Locations
 
 - Johar Town
 - Wapda Town
@@ -39,7 +39,7 @@ A Java-based Smart Traffic Management System developed using Data Structures and
 - Bahria Town
 - Thokar Niaz Baig
 
-## 🎯 Concepts Covered
+## Concepts Covered
 
 - Object-Oriented Programming (OOP)
 - Queue & Priority Queue
@@ -49,13 +49,19 @@ A Java-based Smart Traffic Management System developed using Data Structures and
 - Sorting
 - Real-World Traffic Management Simulation
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open the project in IntelliJ IDEA or Eclipse
 3. Run `Main.java`
 4. Use the menu-based system
 
-## 👨‍💻 Developed For
+## Developed For
 
 DSA (Data Structures & Algorithms) Semester Project using Java.
+
+## Developed By
+
+Mian Inaamullah Iqbal
+L1F24BSSE0004
+SE D3
